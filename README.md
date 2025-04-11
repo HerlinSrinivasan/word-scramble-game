@@ -5,11 +5,10 @@ Includes multiple difficulty levels, a score tracker, a countdown timer, and a r
 
 ---
 ## 🎯 Game Preview
-  
+> 🧩 Unscramble the jumbled word before time runs out!  
 > 💡 Use the hint to help you guess.  
 > ⏳ A 30-second timer keeps the pressure on.  
 > 🧠 Choose your challenge level — Easy, Medium, or Hard.
-> 🧩 Unscramble the jumbled word before time runs out!
 ---
 ## ✨ Features
 - 🎮 Word shuffling with real-time validation
