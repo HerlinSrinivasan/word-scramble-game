@@ -28,7 +28,7 @@ This game was created using:
 ## 🚀 How to Run the Game
 
 1. **Clone the Repository**:
-git clone https://github.com/your-username/word-scramble-game.git
+git clone https:https://github.com/HerlinSrinivasan/word-scramble-game.git
 2.  **Open index**
 Open index.html in your browser.
 ✅ That’s it — no installs, no build tools. Just open and play!
